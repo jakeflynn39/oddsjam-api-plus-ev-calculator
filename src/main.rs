@@ -9,6 +9,7 @@ use crate::utils::helper::{american_to_percent, percent_to_american, get_bet_nam
 use std::collections::HashMap;
 use std::collections::hash_map::Entry::{Occupied, Vacant};
 fn main() {
+    // if this were to be done in live time, would need to connect to oddsjam api and replace next 3 lines
     let mut odds: File = File::open("example_odds.json").expect("Failed to find the lines.");
     let mut json_string: String = String::new();
     odds.read_to_string(&mut json_string).expect("Failed to read the line");
