@@ -1,6 +1,6 @@
 # Odds Analyzer README
 
-Hello, and welcome to Odds Analyzer! This is my first Rust project, and I'm excited to share it with you. In this project, I'm using example lines from the past fetched from the OddsJam API to analyze sports betting odds data and identify potentially profitable betting opportunities.
+Hello, and welcome to Odds Analyzer! In this project, I'm using example lines from the past fetched from the OddsJam API to analyze sports betting odds data and identify potentially profitable betting opportunities.
 
 ## Getting Started
 
