@@ -1,4 +1,4 @@
-# Odds Analyzer README
+# Odds Analyzer
 
 Hello, and welcome to Odds Analyzer! In this project, I'm using example lines from the past fetched from the OddsJam API to analyze sports betting odds data and identify potentially profitable betting opportunities.
 
